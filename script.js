@@ -1,6 +1,6 @@
 // EDIT THIS: Add your WhatsApp number with country code, digits only.
 // Example for India: 919876543210 (do not include +, spaces, or dashes).
-const WHATSAPP_NUMBER = "918281357675";
+const WHATSAPP_NUMBER = "918078174990";
 
 // EDIT THESE: Sample products and prices. Replace images with your own
 // by changing image to a local path such as "images/rose-bouquet.jpg".
